@@ -1,0 +1,28 @@
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.exe.config
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.exe
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.pdb
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csprojResolveAssemblyReference.cache
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.Form1.resources
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.Properties.Resources.resources
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csproj.GenerateResource.cache
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.exe
+C:\Users\Willian\source\repos\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.pdb
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.exe.config
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.exe
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.pdb
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.exe
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.pdb
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.Form1.resources
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.Properties.Resources.resources
+C:\Users\luiza\Desktop\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.exe.config
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.exe
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.pdb
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.exe
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\bin\Debug\TrabalhoRuidos.pdb
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.Form1.resources
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.Properties.Resources.resources
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\Segundo Bimestre\TrabalhoRuidos\TrabalhoRuidos\obj\Debug\TrabalhoRuidos.csproj.GenerateResource.Cache
