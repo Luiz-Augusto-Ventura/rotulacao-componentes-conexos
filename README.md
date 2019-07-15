@@ -10,8 +10,9 @@
 
   Por fim, é possível realizar então a rotulação dos componentes conexos. O resultado será exibido logo abaixo da imagem convertida, como podem ser visto através das capturas de dela abaixo.
 
+##### Outros desenvolvedores: Willian Perereira Mariano
 
-Capturas de tela:
+#### Capturas de tela:
 
 ![Captura 1](screenshots/captura1.png)
 
